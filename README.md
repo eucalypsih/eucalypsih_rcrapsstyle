@@ -19,7 +19,7 @@ ITALIC_OFF = '\x1b[23m'
 ```
 <br>
 
-> UNDERLINE_ON   = '\x1b[4m'<br>
+> UNDERLINE_ON   = '\x1b[4m' # [source](https://github.com/diouziou/bod/blob/7af5aa1ba42c0e4287ac65c747e0fb25f5987979/bod#L93)<br>
 ```python
 UNDERLINE_ON   = '\x1b[4m'
 ```
